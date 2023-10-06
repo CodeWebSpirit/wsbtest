@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\projekt\wsbtest\wsbtest\bin\Debug\net7.0\wsbtest.exe
+C:\Users\Student\Desktop\projekt\wsbtest\wsbtest\bin\Debug\net7.0\wsbtest.deps.json
+C:\Users\Student\Desktop\projekt\wsbtest\wsbtest\bin\Debug\net7.0\wsbtest.runtimeconfig.json
+C:\Users\Student\Desktop\projekt\wsbtest\wsbtest\bin\Debug\net7.0\wsbtest.dll
+C:\Users\Student\Desktop\projekt\wsbtest\wsbtest\bin\Debug\net7.0\wsbtest.pdb
+C:\Users\Student\Desktop\projekt\wsbtest\wsbtest\obj\Debug\net7.0\wsbtest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\projekt\wsbtest\wsbtest\obj\Debug\net7.0\wsbtest.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\projekt\wsbtest\wsbtest\obj\Debug\net7.0\wsbtest.AssemblyInfo.cs
+C:\Users\Student\Desktop\projekt\wsbtest\wsbtest\obj\Debug\net7.0\wsbtest.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\projekt\wsbtest\wsbtest\obj\Debug\net7.0\wsbtest.dll
+C:\Users\Student\Desktop\projekt\wsbtest\wsbtest\obj\Debug\net7.0\refint\wsbtest.dll
+C:\Users\Student\Desktop\projekt\wsbtest\wsbtest\obj\Debug\net7.0\wsbtest.pdb
+C:\Users\Student\Desktop\projekt\wsbtest\wsbtest\obj\Debug\net7.0\wsbtest.genruntimeconfig.cache
+C:\Users\Student\Desktop\projekt\wsbtest\wsbtest\obj\Debug\net7.0\ref\wsbtest.dll
